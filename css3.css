@@ -15,9 +15,7 @@
 
 body{
 background-color:var(--cor4);
-font-family:Times New Roman;
 box-shadow: var(--cor2);
-font-family: var(--fonte);
 padding-top: 0px;
 margin-top: 0px;
 margin-left: 0px;
@@ -29,7 +27,6 @@ background-color:var(--cor0);
 padding-top: 8px;
 margin-top: 0px;
 margin:auto;
-
 font-family:var(--fonte)
 }
 
