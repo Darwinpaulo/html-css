@@ -70,6 +70,10 @@ border: 5px;
 padding: 5px;
 }
 
+.class{
+    background-color: none;
+}
+
 h1,h2,h3{
 background-color:var(--cor2);
 font-family: var(--fonte);
