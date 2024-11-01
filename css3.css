@@ -70,11 +70,11 @@ border: 5px;
 padding: 5px;
 }
 
-header>h1.class{
-    background-color: black;
+.class{
+    background-color: #d11919;
 }
 
-h1,h2,h3{
+h2,h3{
 background-color:var(--cor2);
 font-family: var(--fonte);
 padding-left: 5px;
