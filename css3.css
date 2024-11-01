@@ -71,7 +71,7 @@ padding: 5px;
 }
 
 .class{
-    background-color: #d11919;
+    background-color: var(--cor2);
 }
 
 h2,h3{
