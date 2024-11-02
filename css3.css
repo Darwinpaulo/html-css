@@ -11,7 +11,14 @@
 --cor3:#1fe440c5;
 --cor4:#063b0173;
 --fonte:Android;
+--normal: 
 }
+
+
+*{
+    font-family: var(--fonte)
+}
+
 
 body{
 background-color:var(--cor4);
@@ -25,9 +32,7 @@ margin-right: 0px;
 header{
 background-color:var(--cor0);
 padding-top: 8px;
-margin-top: 0px;
 margin:auto;
-font-family:var(--fonte)
 }
 
 header>p{
@@ -40,7 +45,6 @@ header>h1{
 
 nav{
 font-size:10px;
-font-family:var(--fonte);
 background-color:var(--cor4);
 text-indent: 10px;
 }
@@ -62,7 +66,7 @@ nav:hover>a{
 main{
 background-color:var(--cor1);
 max-width:1000px;
-min-width:320px;
+min-width:300px;
 margin: auto;
 font-size:17px;
 box-shadow:0px 0px 1px #00000000;
@@ -70,13 +74,13 @@ border: 5px;
 padding: 5px;
 }
 
-.class{
+.ha{
     background-color: var(--cor2);
+    padding-left: 5px;
 }
 
 h2,h3{
 background-color:var(--cor2);
-font-family: var(--fonte);
 padding-left: 5px;
 }
 
